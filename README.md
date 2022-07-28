@@ -36,3 +36,18 @@ GIF created with [peek](https://github.com/phw/peek/).
 I had a few challenges with the git section of the prework. I was not prompted to sign into github from android studio, instead I had to create a token then linked it to android studio. I then commited the changes to github. 
 When using the command line for git, I also ran into a few issues with pushing the walkthrough gif to my repo, I had to use my token as my github password, then force the changes onto my repo to get it to push (it completely replaced my remote repo with the one from the local drive).
 I am using Linux and am not sure if this is a linux thing or for everyone.
+## License
+
+    Copyright [yyyy] [name of copyright owner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
