@@ -38,7 +38,7 @@ When using the command line for git, I also ran into a few issues with pushing t
 I am using Linux and am not sure if this is a linux thing or for everyone.
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Noel Abeje]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
